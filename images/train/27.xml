@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_forTF</folder>
+	<filename>27.jpg</filename>
+	<path>/home/siddharth/Dataset_forTF/27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qr_code</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>272</ymin>
+			<xmax>239</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

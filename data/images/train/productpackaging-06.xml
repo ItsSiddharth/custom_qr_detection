@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_for_TF</folder>
+	<filename>productpackaging-06.png</filename>
+	<path>/home/siddharth/Dataset_for_TF/productpackaging-06.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1392</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qr_code</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>941</xmin>
+			<ymin>39</ymin>
+			<xmax>1204</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

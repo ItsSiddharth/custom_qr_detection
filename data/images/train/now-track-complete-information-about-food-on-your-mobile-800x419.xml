@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset_for_TF</folder>
+	<filename>now-track-complete-information-about-food-on-your-mobile-800x419.jpg</filename>
+	<path>/home/siddharth/Dataset_for_TF/now-track-complete-information-about-food-on-your-mobile-800x419.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qr_code</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>209</ymin>
+			<xmax>140</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

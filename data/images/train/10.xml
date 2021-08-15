@@ -1,14 +1,14 @@
 <annotation>
-	<folder>Dataset_forTF</folder>
+	<folder>Dataset_for_TF</folder>
 	<filename>10.jpg</filename>
-	<path>/home/siddharth/Dataset_forTF/10.jpg</path>
+	<path>/home/siddharth/Dataset_for_TF/10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>480</height>
-		<depth>1</depth>
+		<width>326</width>
+		<height>399</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
-			<ymin>85</ymin>
-			<xmax>243</xmax>
-			<ymax>159</ymax>
+			<xmin>68</xmin>
+			<ymin>217</ymin>
+			<xmax>244</xmax>
+			<ymax>392</ymax>
 		</bndbox>
 	</object>
 </annotation>

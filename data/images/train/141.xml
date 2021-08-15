@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset_forTF</folder>
+	<folder>Dataset_for_TF</folder>
 	<filename>141.jpg</filename>
-	<path>/home/siddharth/Dataset_forTF/141.jpg</path>
+	<path>/home/siddharth/Dataset_for_TF/141.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>109</xmin>
-			<ymin>246</ymin>
-			<xmax>175</xmax>
-			<ymax>310</ymax>
+			<xmin>115</xmin>
+			<ymin>249</ymin>
+			<xmax>174</xmax>
+			<ymax>306</ymax>
 		</bndbox>
 	</object>
 </annotation>
